@@ -1,0 +1,2 @@
+# openwrt-package
+self use
